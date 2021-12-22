@@ -9684,3 +9684,9 @@ h6 {
   font-size: 24px;
   font-family: "Montserrat";
 }
+
+.img-height {
+  height: 233px;
+  width: 100%;
+  background-color: black;
+}
