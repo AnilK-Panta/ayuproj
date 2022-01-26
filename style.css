@@ -9651,9 +9651,9 @@ h6 {
   color: #e58129;
   font-family: "Montserrat";
 }
-.natural-Detox {
-  /* padding-top: 49px; */
-}
+/* .natural-Detox {
+  padding-top: 49px;
+} */
 .card--hero1 {
   /* position: absolute;
   right: 3rem;
@@ -9698,4 +9698,15 @@ h6 {
 }
 .banner-container {
   height: 406px;
+}
+.naturalDetox ul {
+  list-style-position: outside;
+  font-size: 1rem;
+}
+.naturalDetox ul li {
+  padding: 0;
+}
+.natural-Detox ul {
+  list-style-type: auto;
+  font-size: 1rem;
 }
